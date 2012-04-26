@@ -1,0 +1,18 @@
+{
+  "author": "Fernando Lores <ferlores@gmail.com>",
+  "name": "Presenter",
+  "description": "a Brodway plugin that helps to structure the route handlers",
+  "version": "0.0.1",
+  "repository": {
+    "url": "git://github.com/ferlores/Presenter.git"
+  },
+  "main": "lib/presenter.js",
+  "dependencies": {
+  	"flatiron": "*" 
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
